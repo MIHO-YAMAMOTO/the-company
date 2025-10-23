@@ -1,6 +1,0 @@
-Folders:
-
-actions - folder to save the action
-assets - folder to save our css and images
-classes - folder to save our class fifles
-views -folder to save our html files
